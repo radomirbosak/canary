@@ -1,0 +1,22 @@
+{
+  "name": "rcanary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radomirbosak/canary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radomirbosak/canary/issues"
+  },
+  "homepage": "https://github.com/radomirbosak/canary#readme",
+  "dependencies": {
+    "eslint": "^8.8.0"
+  }
+}
